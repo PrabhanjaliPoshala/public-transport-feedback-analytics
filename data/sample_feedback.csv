@@ -1,0 +1,11 @@
+Created Date,Complaint Type,Descriptor,Borough/Route,Rating,Comment
+2026-09-10T17:45:00Z,Crowding,Overcrowded Bus,Route 42,1.0,"Bus was jammed to capacity at 5:45 PM. Could not board at 5th Ave."
+2026-09-10T18:10:00Z,Punctuality / Delay,Bus Delay,Route 42,2.0,"Waited 35 minutes for Route 42. Schedule says every 10 mins."
+2026-09-11T08:15:00Z,Cleanliness,Dirty Seats,Route 17,3.0,"Seats had sticky spills near the rear exit."
+2026-09-11T17:30:00Z,Crowding,No Standing Room,Route 42,1.0,"Complete overcrowding during peak evening rush. Need double deckers."
+2026-09-12T12:00:00Z,Driver Behaviour,Abrupt Braking,Route 4,3.0,"Driver applied hard brakes unexpectedly near central park."
+2026-09-12T18:00:00Z,Punctuality / Delay,Bus Bunching,Route 42,2.0,"Two Route 42 buses arrived back to back after a 40 minute delay."
+2026-09-13T09:00:00Z,Service / Route Issue,Card Reader Out of Order,Route 10,4.0,"Fare card validator was malfunctioning at front entrance."
+2026-09-13T17:50:00Z,Safety,Unsafe Speed,Route 42,1.0,"Driver was speeding through crowded university crosswalk."
+2026-09-14T08:30:00Z,Punctuality / Delay,Late Arrival,Route 88,4.0,"Slight 5 minute delay due to traffic light synchronization."
+2026-09-14T18:30:00Z,Crowding,Passengers Refused Entry,Route 42,1.0,"Bus driver turned away 15 passengers because bus was 100% full."
