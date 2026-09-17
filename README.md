@@ -439,16 +439,6 @@ VITE_API_URL=http://localhost:8000
 
 For deployment, configure the variable with the deployed backend API URL.
 
-### Never commit secrets
-
-Do not commit:
-
-* Database passwords
-* JWT secrets
-* API keys
-* Production credentials
-* `.env` files containing secrets
-
 ---
 
 # 🔄 End-to-End Demo Flow
