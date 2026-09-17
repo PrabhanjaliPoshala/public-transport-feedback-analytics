@@ -340,7 +340,6 @@ The intended Route 42 pattern includes:
 
 * Modular rule-based NLP classifier
 * Local LLM integration path
-* 
 ---
 
 # 💻 Local Development
